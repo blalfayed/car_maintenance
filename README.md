@@ -1,7 +1,6 @@
 # car_maintenance
 
-A new Flutter project.
-
+This is a Flutter application that calculates the next maintenance date for car parts based on the information you entered about the car and saved in the database.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
